@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+
+body {
+  background-color: #eaeaea;
+}
+
+.box-success {
+  padding-top: 20px;
+  margin-top: 50px;
+  text-align: center;
+  background-color: #ffffff;
+}
+
+h5 {
+  font-size: 20px;
+}
+
+.box-pay {
+  text-align: center;
+  background-color: rgb(250, 235, 216);
+  margin: 20px;
+}
+
+.box-note {
+  background-color: rgb(58, 189, 58);
+  margin-bottom: 20px;
+  border-radius: 10px;
+  color: #ffffff;
+  padding-top: 8px;
+  font-size: 16px;
+}
+
+.info img {
+  height: 200px;
+}

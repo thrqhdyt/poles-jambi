@@ -1,0 +1,26 @@
+/* ======== Fonts ====== */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+
+/*==== FORM ==== */
+
+.form-booking {
+  background-color: white;
+  padding: 30px;
+  border-radius: 40px;
+  box-shadow: 10px 10px 10px 3px rgba(0, 0, 0, 0.2);
+}
+
+.form-booking h2 {
+  font-family: 'Raleway', sans-serif;
+}
+
+.form-group {
+  font-family: 'Raleway', sans-serif;
+}
+.modal-header h5 {
+  font-weight: bold;
+}
+.modal-content {
+  font-family: 'Raleway', sans-serif;
+  color: rgba(55, 64, 85, 0.9);
+}
